@@ -1,6 +1,6 @@
 # Adventure work-Dashboard
 1. Project Title / Headline
- Sales analytics of Adventure Work manufacturing company
+  Sales analytics of Adventure Work manufacturing company
 
 2. Short Description / Purpose
 comprehensive Power BI project aimed at transforming complex data provided by a global manufacturing company that produces cycling equipment and accessories *into actionable insights.
@@ -17,7 +17,7 @@ Key accomplishments include:
 3. Tech Stack
 List the key technologies used to build the dashboard.
 
-Example: The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
