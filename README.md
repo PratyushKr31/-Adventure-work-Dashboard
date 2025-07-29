@@ -42,6 +42,8 @@ data provided by a global manufacturing company that produces cycling equipment 
  • Use of AI tools provided by Power BI .
  • way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyse product-level trends, and identify high-value customers.
 
+Power BI Service : https://lnkd.in/g9fWq5tw
+
 6. Screenshots / Demos
    <img width="1436" height="803" alt="image" src="https://github.com/user-attachments/assets/8b8de18e-aabc-4c91-91f7-33602b526be0" />
    <img width="1465" height="812" alt="image" src="https://github.com/user-attachments/assets/cb322aff-cb04-4d89-b5e9-5e2e1ad76b4d" />
