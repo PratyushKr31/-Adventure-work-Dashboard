@@ -1,14 +1,20 @@
 # Adventure work-Dashboard
 1. Project Title / Headline
-   
+ Sales analytics of Adventure Work manufacturing company
 
-3. Short Description / Purpose
+2. Short Description / Purpose
 comprehensive Power BI project aimed at transforming complex data provided by a global manufacturing company that produces cycling equipment and accessories *into actionable insights.
- Leveraging Power BI's dynamic features, I crafted interactive dashboards and in-depth visualizations that illuminate critical business trends and metrics.
+Leveraging Power BI's dynamic features, I crafted interactive dashboards and in-depth visualizations that illuminate critical business trends and metrics.
 Key accomplishments include:
+• Connect and transform the raw data
+• Build a relational data model
+• Create calculated columns and measures with DAX
+• Design an interactive dashboard to visualize the data
+• Interactive Dashboards: Developed intuitive dashboards that provide real- time visibility into key performance indicators.
+• Use of AI tools provided by Power BI .
+• way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyse product-level trends, and identify high-value customers.
 
-
-4. Tech Stack
+3. Tech Stack
 List the key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
@@ -19,7 +25,8 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
-   data provided by a global manufacturing company that produces cycling equipment and accessories(excel,database,csv files etc).
+data provided by a global manufacturing company that produces cycling equipment and accessories(excel,database,csv files etc).
+   
 5. Features / Highlights
 Use Power BI Desktop to:
 • Connect and transform the raw data
@@ -27,7 +34,7 @@ Use Power BI Desktop to:
 • Create calculated columns and measures with DAX
 • Design an interactive dashboard to visualize the data
 • Interactive Dashboards: Developed intuitive dashboards that provide
-real- time visibility into key performance indicators.
+   real- time visibility into key performance indicators.
 • Use of AI tools provided by Power BI .
 • way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyse product-level trends, and identify high-value customers.
 6. Screenshots / Demos
